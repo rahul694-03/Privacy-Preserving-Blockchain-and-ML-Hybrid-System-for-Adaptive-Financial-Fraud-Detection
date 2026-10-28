@@ -1,0 +1,13 @@
+F:\CMRIT CSE Abstracts\CMRIT CSE Projects\C13\hello_eth_proj
+
+Go to this path 
+
+1. truffle compile
+
+2. truffle develop
+
+3. truffle migrate
+
+
+
+Need Nodejs version 24
